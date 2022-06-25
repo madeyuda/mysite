@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: mydhasbali@gmail.com
+Date: Mon, 11 Apr 2022 18:50:48 -0000
+Message-ID: <164970304877.16508.3512067435148784451@asusmyd>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/password-reset-confirm/MQ/b3qyko-c3613b6d02463629b95460ad66b2d50b
+
+Your username, in case you’ve forgotten: mydhas
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
